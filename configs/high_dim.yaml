@@ -1,0 +1,12 @@
+N: 50000
+B: 1
+r: 1
+L: 3
+w: 256
+p: 1024
+noise: 0.1
+s: 0.1
+lr: 3e-4
+batch_size: 64
+n_bootstrap: 20
+log_path: "logs/high_dim"

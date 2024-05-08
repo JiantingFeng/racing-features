@@ -1,0 +1,12 @@
+N: 10000
+B: 1
+r: 0
+L: 3
+w: 128
+p: 256
+noise: 0.1
+s: 0.1
+lr: 3e-4
+batch_size: 512
+n_bootstrap: 20
+log_path: "logs/low_cor"tmux 
